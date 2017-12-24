@@ -1,0 +1,12 @@
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Стохастический Осциллятор\bin\Debug\Стохастический Осциллятор.exe.config
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Стохастический Осциллятор\bin\Debug\Стохастический Осциллятор.exe
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Стохастический Осциллятор\bin\Debug\Стохастический Осциллятор.pdb
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Стохастический Осциллятор\obj\Debug\Стохастический_Осциллятор.Properties.Resources.resources
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Стохастический Осциллятор\obj\Debug\Стохастический Осциллятор.csproj.GenerateResource.Cache
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Стохастический Осциллятор\obj\Debug\Стохастический Осциллятор.csproj.CoreCompileInputs.cache
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Стохастический Осциллятор\obj\Debug\Стохастический Осциллятор.exe
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Стохастический Осциллятор\obj\Debug\Стохастический Осциллятор.pdb
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Стохастический Осциллятор\obj\Debug\Стохастический_Осциллятор.Form1.resources
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Стохастический Осциллятор\bin\Debug\Csv.dll
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Стохастический Осциллятор\bin\Debug\Csv.xml
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Стохастический Осциллятор\obj\Debug\Стохастический Осциллятор.csprojResolveAssemblyReference.cache

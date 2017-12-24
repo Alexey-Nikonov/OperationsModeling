@@ -1,0 +1,14 @@
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Наилучшая модель для прогнозирования\bin\Debug\Наилучшая модель для прогнозирования.exe.config
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Наилучшая модель для прогнозирования\bin\Debug\Наилучшая модель для прогнозирования.exe
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Наилучшая модель для прогнозирования\bin\Debug\Наилучшая модель для прогнозирования.pdb
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Наилучшая модель для прогнозирования\bin\Debug\Csv.dll
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Наилучшая модель для прогнозирования\bin\Debug\Csv.xml
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Наилучшая модель для прогнозирования\obj\Debug\Наилучшая модель для прогнозирования.csprojResolveAssemblyReference.cache
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Наилучшая модель для прогнозирования\obj\Debug\Наилучшая_модель_для_прогнозирования.Form1.resources
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Наилучшая модель для прогнозирования\obj\Debug\Наилучшая_модель_для_прогнозирования.Properties.Resources.resources
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Наилучшая модель для прогнозирования\obj\Debug\Наилучшая модель для прогнозирования.csproj.GenerateResource.Cache
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Наилучшая модель для прогнозирования\obj\Debug\Наилучшая модель для прогнозирования.csproj.CoreCompileInputs.cache
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Наилучшая модель для прогнозирования\obj\Debug\Наилучшая модель для прогнозирования.exe
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Наилучшая модель для прогнозирования\obj\Debug\Наилучшая модель для прогнозирования.pdb
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Наилучшая модель для прогнозирования\bin\Debug\System.ValueTuple.dll
+C:\Users\Nikonov-NBook\source\repos\Моделирование операций\Наилучшая модель для прогнозирования\bin\Debug\System.ValueTuple.xml
